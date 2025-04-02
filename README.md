@@ -102,8 +102,8 @@ Make sure you have the following:
 ## 🤝 Contributions & Contact
 🚀 **Feel free to contribute or reach out**:  
 🔗 **GitHub**: [xAHIINX00](https://github.com/xAHIINX00)  
-📧 **Email**: ahinsunil.m@gmail.com  
-💼 **LinkedIn**: [Ahin Sunil M](www.linkedin.com/in/ahinsunil-m) 
+📧 **Email**: (ahinsunil.m@gmail.com)  
+💼 **LinkedIn**: [Ahin Sunil M](https://www.linkedin.com/in/ahin-sunil-m-/) 
 
 ---
 🚀 **Built with ❤️ by Ahin Sunil M**
