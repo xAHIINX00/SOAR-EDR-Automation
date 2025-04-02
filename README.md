@@ -14,12 +14,14 @@ This project automates threat detection and response using **Tines** as the SOAR
 ![SOAR-EDR Workflow](https://github.com/user-attachments/assets/c81de9e0-f78e-4b27-8018-c4cef2012d78)
 
 ## 🔧 Prerequisites
-Make sure you have the following:
-- 🖥 **Windows Server 2022** (VM on VMware/VirtualBox)
-- 🔍 **Lima Charlie Account** (for endpoint detection and response)
-- 🤖 **Tines Account** (for automation workflows)
-- 📩 **Slack Account** (for receiving alerts)
-- 📧 **Email Service (SquareX)** (for email notifications)
+| Requirement               | Description                                        |
+|---------------------------|----------------------------------------------------|
+| 🖥 **Windows Server 2022** | VM on VMware/VirtualBox                           |
+| 🔍 **Lima Charlie Account** | For endpoint detection and response              |
+| 🤖 **Tines Account**       | For automation workflows                         |
+| 📩 **Slack Account**       | For receiving alerts                             |
+| 📧 **Email Service (SquareX)** | For email notifications                     |
+
 
 ## 🚀 Step-by-Step Implementation
 
@@ -98,6 +100,12 @@ Make sure you have the following:
 🔹 **VirusTotal Integration** – For automatic hash lookups.  
 🔹 **Threat Intelligence Enrichment** – Fetch additional threat context.  
 🔹 **Multi-EDR Support** – Extend beyond Lima Charlie.
+
+### GitHub Repository Badges:
+![GitHub stars](https://img.shields.io/github/stars/xAHIINX00/SOAR-EDR-Automation.svg)
+![GitHub forks](https://img.shields.io/github/forks/xAHIINX00/SOAR-EDR-Automation.svg)
+![GitHub issues](https://img.shields.io/github/issues/xAHIINX00/SOAR-EDR-Automation.svg)
+
 
 ## 🤝 Contributions & Contact
 🚀 **Feel free to contribute or reach out**:  
