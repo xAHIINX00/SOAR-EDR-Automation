@@ -84,10 +84,14 @@ Make sure you have the following:
 ✅ Confirm **Lima Charlie successfully isolates** the system.
 
 ## 📷 Output Screenshots
-✅ [LaZagne Execution Detection](https://github.com/xAHIINX00/SOAR-EDR-Automation/blob/main/Output/Detection.png)  
+✅ [LaZagne Execution Detection](https://github.com/xAHIINX00/SOAR-EDR-Automation/blob/main/Output/Detection.png) 
+
 ✅ [Slack Alert](https://github.com/xAHIINX00/SOAR-EDR-Automation/blob/main/Output/Slack.png)
+
 ✅ [Email Alert](https://github.com/xAHIINX00/SOAR-EDR-Automation/blob/main/Output/Email.png) 
-✅ [User Prompt for Isolation](https://github.com/xAHIINX00/SOAR-EDR-Automation/blob/main/Output/User-Prompt.png)  
+
+✅ [User Prompt for Isolation](https://github.com/xAHIINX00/SOAR-EDR-Automation/blob/main/Output/User-Prompt.png) 
+
 ✅ [Machine Isolation Confirmation](https://github.com/xAHIINX00/SOAR-EDR-Automation/blob/main/Output/ISOLATION-STATUS.png)
 
 ## 🔥 Future Improvements
