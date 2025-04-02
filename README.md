@@ -84,7 +84,7 @@ Make sure you have the following:
 ✅ Confirm **Lima Charlie successfully isolates** the system.
 
 ## 📷 Output Screenshots
-✅ LaZagne Execution Detection.  
+✅ [LaZagne Execution Detection](https://github.com/xAHIINX00/SOAR-EDR-Automation/blob/main/Output/Detection.png)  
 ✅ Slack & Email Alerts.  
 ✅ User Prompt for Isolation.  
 ✅ Machine Isolation Confirmation.  
