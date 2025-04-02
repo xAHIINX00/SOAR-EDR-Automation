@@ -85,9 +85,10 @@ Make sure you have the following:
 
 ## 📷 Output Screenshots
 ✅ [LaZagne Execution Detection](https://github.com/xAHIINX00/SOAR-EDR-Automation/blob/main/Output/Detection.png)  
-✅ Slack & Email Alerts.  
-✅ User Prompt for Isolation.  
-✅ Machine Isolation Confirmation.  
+✅ [Slack Alert](https://github.com/xAHIINX00/SOAR-EDR-Automation/blob/main/Output/Slack.png)
+✅ [Email Alert](https://github.com/xAHIINX00/SOAR-EDR-Automation/blob/main/Output/Email.png) 
+✅ [User Prompt for Isolation](https://github.com/xAHIINX00/SOAR-EDR-Automation/blob/main/Output/User-Prompt.png)  
+✅ [Machine Isolation Confirmation](https://github.com/xAHIINX00/SOAR-EDR-Automation/blob/main/Output/ISOLATION-STATUS.png)
 
 ## 🔥 Future Improvements
 🔹 **VirusTotal Integration** – For automatic hash lookups.  
@@ -97,7 +98,7 @@ Make sure you have the following:
 ## 🤝 Contributions & Contact
 🚀 **Feel free to contribute or reach out**:  
 🔗 **GitHub**: [xAHIINX00](https://github.com/xAHIINX00)  
-📧 **Email**: (ahinsunil.m@gmail.com)  
+📧 **Email**: ahinsunil.m@gmail.com  
 💼 **LinkedIn**: [Ahin Sunil M](www.linkedin.com/in/ahinsunil-m) 
 
 ---
