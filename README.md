@@ -1,4 +1,4 @@
-# 🚀 SOAR-EDR Automation
+# 🚀 SOAR-EDR Security Integration & Automation
 
 ## 🔍 Project Overview
 This project automates threat detection and response using **Tines** as the SOAR platform and **Lima Charlie** as the EDR solution. When a suspicious activity (e.g., password recovery tool execution) is detected, an alert is triggered in **Tines**, which sends notifications to **Slack and Email**. The user is then prompted to decide whether to isolate the affected machine.
